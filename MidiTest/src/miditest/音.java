@@ -12,4 +12,5 @@ public enum 音 {
 	public int getNotenum() {
 		return this.notenum;
 	}
+
 }
